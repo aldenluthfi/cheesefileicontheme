@@ -4,7 +4,7 @@
 			"iconPath": "../src/file.svg"
 		},
 		"file.json": {
-			"iconPath": ".../src/file.json.svg"
+			"iconPath": "../src/file.json.svg"
 		},
 		"file.c": {
 			"iconPath": "../src/file.c.svg"
