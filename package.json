@@ -23,7 +23,7 @@
     "ui"
   ],
   "contributes": {
-    "iconthemes": [
+    "iconThemes": [
       {
         "label": "Cheesewaffle File",
         "id": "cheesewaffle-file-icon-theme",
