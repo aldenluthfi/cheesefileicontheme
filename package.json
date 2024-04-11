@@ -2,7 +2,7 @@
   "name": "cheesewaffle-file-icon-theme",
   "displayName": "Cheesewaffle's File Icon Theme",
   "description": "File Icon Theme for Visual Studio Code",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "publisher": "Cheesewaffle",
   "repository": {
     "type": "git",
