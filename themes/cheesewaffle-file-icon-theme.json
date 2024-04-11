@@ -1,0 +1,194 @@
+{
+	"iconDefinitions": {
+		"file.dark": {
+			"iconPath": "../src/file.svg"
+		},
+		"file.json": {
+			"iconPath": "../src/file.json.svg"
+		},
+		"file.c": {
+			"iconPath": "../src/file.c.svg"
+		},
+		"file.cpp": {
+			"iconPath": "../src/file.cpp.svg"
+		},
+		"file.h": {
+			"iconPath": "../src/file.h.svg"
+		},
+		"file.hpp": {
+			"iconPath": "../src/file.hpp.svg"
+		},
+		"file.js": {
+			"iconPath": "../src/file.js.svg"
+		},
+		"file.html": {
+			"iconPath": "../src/file.html.svg"
+		},
+		"file.assembly": {
+			"iconPath": "../src/file.assembly.svg"
+		},
+		"file.css": {
+			"iconPath": "../src/file.css.svg"
+		},
+		"file.markdown": {
+			"iconPath": "../src/file.markdown.svg"
+		},
+		"file.python": {
+			"iconPath": "../src/file.python.svg"
+		},
+		"file.java": {
+			"iconPath": "../src/file.java.svg"
+		},
+		"file.haskell": {
+			"iconPath": "../src/file.haskell.svg"
+		},
+		"file.text": {
+			"iconPath": "../src/file.text.svg"
+		},
+		"file.image": {
+			"iconPath": "../src/file.image.svg"
+		},
+		"file.font": {
+			"iconPath": "../src/file.font.svg"
+		},
+		"file.binary": {
+			"iconPath": "../src/file.binary.svg"
+		},
+		"file.zip": {
+			"iconPath": "../src/file.zip.svg"
+		},
+		"file.exe": {
+			"iconPath": "../src/file.exe.svg"
+		},
+		"file.tex": {
+			"iconPath": "../src/file.tex.svg"
+		},
+		"config.git": {
+			"iconPath": "../src/config.git.svg"
+		},
+		"config.vs": {
+			"iconPath": "../src/config.vs.svg"
+		},
+		"config.makefile": {
+			"iconPath": "../src/config.makefile.svg"
+		},
+		"folder.vs.close": {
+			"iconPath": "../src/folder.vs.close.svg"
+		},
+		"folder.vs.open": {
+			"iconPath": "../src/folder.vs.open.svg"
+		},
+		"folder.res.close": {
+			"iconPath": "../src/folder.res.close.svg"
+		},
+		"folder.res.open": {
+			"iconPath": "../src/folder.res.close.svg"
+		},
+		"folder.bin.close": {
+			"iconPath": "../src/folder.bin.close.svg"
+		},
+		"folder.bin.open": {
+			"iconPath": "../src/folder.bin.open.svg"
+		},
+		"folder.src.close": {
+			"iconPath": "../src/folder.src.close.svg"
+		},
+		"folder.src.open": {
+			"iconPath": "../src/folder.src.open.svg"
+		},
+		"folder.include.close": {
+			"iconPath": "../src/folder.include.close.svg"
+		},
+		"folder.include.open": {
+			"iconPath": "../src/folder.include.open.svg"
+		},
+		"folder.lib.close": {
+			"iconPath": "../src/folder.lib.close.svg"
+		},
+		"folder.lib.open": {
+			"iconPath": "../src/folder.lib.open.svg"
+		},
+		"folder.dark": {
+			"iconPath": "../src/folder.close.svg"
+		},
+		"folder.open.dark": {
+			"iconPath": "../src/folder.open.svg"
+		}
+	},
+	"folderExpanded": "folder.open.dark",
+	"folder": "folder.dark",
+	"file": "file.dark",
+	"fileExtensions": {
+		"json": "file.json",
+		"c": "file.c",
+		"h": "file.h",
+		"js": "file.js",
+		"hpp": "file.hpp",
+		"cpp": "file.cpp",
+		"css": "file.css",
+		"html": "file.html",
+		"md": "file.markdown",
+		"cs": "file.cs",
+		"asm": "file.assembly",
+		"py": "file.python",
+		"java": "file.java",
+		"hs": "file.haskell",
+		"tex": "file.tex",
+		"mk": "config.makefile",
+		"make": "config.makefile",
+		"txt": "file.text",
+		"bmp": "file.image",
+		"jpg": "file.image",
+		"jpeg": "file.image",
+		"gif": "file.image",
+		"png": "file.image",
+		"svg": "file.image",
+		"tif": "file.image",
+		"tiff": "file.image",
+		"psd": "file.image",
+		"psb": "file.image",
+		"ttf": "file.font",
+		"otf": "file.font",
+		"woff": "file.font",
+		"woff2": "file.font",
+		"sfd": "file.font",
+		"eot": "file.font",
+		"otd": "file.json",
+		"bin": "file.binary",
+		"exe": "file.exe",
+		"dll": "file.lib",
+		"lib": "file.lib",
+		"o": "file.binary",
+		"a": "file.lib",
+		"so": "file.lib",
+		"zip": "file.zip",
+		"tar": "file.zip",
+		"tgz": "file.zip",
+		"gz": "file.zip",
+		"xz": "file.zip",
+		"bzip2": "file.zip",
+		"7z": "file.zip",
+		"rar": "file.zip"
+	},
+	"fileNames": {
+		".gitignore": "config.git",
+		"readme.md": "file.markdown",
+		"makefile": "config.makefile"
+	},
+	"folderNames": {
+		".vscode": "folder.vs.close",
+		"bin": "folder.bin.close",
+		"src": "folder.src.close",
+		"incl": "folder.include.close",
+		"lib": "folder.lib.close",
+		"res": "folder.res.close"
+	},
+	"folderNamesExpanded": {
+		".vscode": "folder.vs.open",
+		"bin": "folder.bin.open",
+		"src": "folder.src.open",
+		"incl": "folder.include.open",
+		"lib": "folder.lib.open",
+		"res": "folder.res.open"
+	}
+}

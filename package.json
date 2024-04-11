@@ -1,0 +1,37 @@
+{
+  "name": "cheesewaffle-file-icon-theme",
+  "displayName": "Cheesewaffle's File Icon Theme",
+  "description": "File Icon Theme for Visual Studio Code",
+  "version": "0.0.0",
+  "publisher": "Cheesewaffle",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aldenluthfi/cheesefileicontheme.git"
+  },
+  "keywords": [
+    "icon-theme",
+    "icons",
+    "customization",
+    "theme",
+    "ui"
+  ],
+  "engines": {
+    "vscode": "^1.82.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "logo.png",
+  "contributes": {
+    "iconThemes": [
+      {
+        "label": "Cheesewaffle File",
+        "id": "cheesewaffle-file-icon-theme",
+        "path": "./themes/cheesewaffle-file-icon-theme.json"
+      }
+    ]
+  },
+  "dependencies": {
+    "@vscode/vsce": "^2.24.0"
+  }
+}
